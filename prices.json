@@ -1,11 +1,54 @@
 {
-  "lastUpdated": "2024-11-03T15:30:07.189Z",
-  "prices": {
-    "bitcoin": {
-      "usd": 67565
+  "lastUpdated": "2024-11-03T15:34:01.691Z",
+  "coins": {
+    "notcoin": {
+      "current_price": 0.00564588,
+      "ath": 0.02836145,
+      "atl": 0.00461057,
+      "market_cap": 576833154,
+      "total_supply": 102456958349.563
     },
-    "ethereum": {
-      "usd": 2418.36
+    "dogs-2": {
+      "current_price": 0.00049157,
+      "ath": 0.00163299,
+      "atl": 0.00048891,
+      "market_cap": 254011212,
+      "total_supply": 550000000000
+    },
+    "hamster-kombat": {
+      "current_price": 0.00228116,
+      "ath": 0.00722201,
+      "atl": 0.00226326,
+      "market_cap": 146587126,
+      "total_supply": 100000000000
+    },
+    "catizen": {
+      "current_price": 0.267437,
+      "ath": 1.11,
+      "atl": 0.265428,
+      "market_cap": 55118200,
+      "total_supply": 1000000000
+    },
+    "cats-2": {
+      "current_price": 0.00002806,
+      "ath": 0.00018159,
+      "atl": 0.00002766,
+      "market_cap": 6848237,
+      "total_supply": 600000000000
+    },
+    "pixelverse-xyz": {
+      "current_price": 0.00242683,
+      "ath": 0.097683,
+      "atl": 0.00241659,
+      "market_cap": 0,
+      "total_supply": 5000000000
+    },
+    "x-empire": {
+      "current_price": 0.00003659,
+      "ath": 0.00008444,
+      "atl": 0.00003637,
+      "market_cap": 0,
+      "total_supply": 690000000000
     }
   }
 }
