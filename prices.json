@@ -56,6 +56,14 @@
       "market_cap": 0,
       "total_supply": 690000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/50988/large/x_empire.jpg?1729666623"
+    },
+    "memefi-2": {
+      "current_price": 0.008412,
+      "ath": 0.00056127,
+      "atl": 0.00003329,
+      "market_cap": 0,
+      "total_supply": 690000000000,
+      "logo": "https://coin-images.coingecko.com/coins/images/50988/large/x_empire.jpg?1729666623"
     }
   }
 }
