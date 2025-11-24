@@ -1,51 +1,51 @@
 {
-  "lastUpdated": "2025-11-24T06:55:08.394Z",
+  "lastUpdated": "2025-11-24T07:00:14.832Z",
   "coins": {
     "notcoin": {
-      "current_price": 0.0005645,
+      "current_price": 0.00056639,
       "ath": 0.02836145,
       "atl": 0.00051896,
-      "market_cap": 56145341,
+      "market_cap": 56318221,
       "total_supply": 102456956071.9109,
       "logo": "https://coin-images.coingecko.com/coins/images/33453/large/rFmThDiD_400x400.jpg?1701876350"
     },
     "dogs-2": {
-      "current_price": 0.00004443,
+      "current_price": 0.00004461,
       "ath": 0.00163299,
       "atl": 0.00002588,
-      "market_cap": 22981303,
+      "market_cap": 22956237,
       "total_supply": 550000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png?1723687163"
     },
     "catizen": {
-      "current_price": 0.060963,
+      "current_price": 0.060983,
       "ath": 1.11,
       "atl": 0.03953622,
-      "market_cap": 22690737,
+      "market_cap": 22682984,
       "total_supply": 1000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/50236/large/cati.png?1726638258"
     },
     "hamster-kombat": {
-      "current_price": 0.0002472,
+      "current_price": 0.00024682,
       "ath": 0.00722201,
       "atl": 0.00024197,
-      "market_cap": 15915641,
+      "market_cap": 15913184,
       "total_supply": 100000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/39102/large/hamster-removebg-preview.png?1720514486"
     },
     "memefi-2": {
-      "current_price": 0.00073622,
+      "current_price": 0.000737,
       "ath": 0.01376413,
       "atl": 0.00059687,
-      "market_cap": 7371088,
+      "market_cap": 7371783,
       "total_supply": 10000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/51175/large/memefi.png?1730289107"
     },
     "not-pixel": {
-      "current_price": 0.01869859,
+      "current_price": 0.01872016,
       "ath": 0.260763,
       "atl": 0.01793028,
-      "market_cap": 3764375,
+      "market_cap": 3769635,
       "total_supply": 225000000,
       "logo": "https://coin-images.coingecko.com/coins/images/53817/large/Pixel_logo.png?1737460583"
     },
@@ -53,7 +53,7 @@
       "current_price": 0.0000128,
       "ath": 0.00041871,
       "atl": 0.00001206,
-      "market_cap": 842533,
+      "market_cap": 842717,
       "total_supply": 65860282991.05289,
       "logo": "https://coin-images.coingecko.com/coins/images/52805/large/Group_2085666565.png?1734345201"
     },
@@ -61,15 +61,15 @@
       "current_price": 0.00000821,
       "ath": 0.00035702,
       "atl": 0.00000647,
-      "market_cap": 435471,
+      "market_cap": 435475,
       "total_supply": 53056048247.18317,
       "logo": "https://coin-images.coingecko.com/coins/images/54865/large/paws.jpg?1742193676"
     },
     "cats-2": {
-      "current_price": 5.54292e-7,
+      "current_price": 5.54265e-7,
       "ath": 0.00018159,
       "atl": 4.92522e-7,
-      "market_cap": 332619,
+      "market_cap": 332575,
       "total_supply": 600000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/50426/large/logo_no_bg.png?1727689380"
     },
@@ -82,7 +82,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/54470/large/UPwVJvhm_400x400.png?1739916590"
     },
     "pixelverse-xyz": {
-      "current_price": 0.0000964,
+      "current_price": 0.00009627,
       "ath": 0.097683,
       "atl": 0.00007245,
       "market_cap": 0,
@@ -106,7 +106,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/54649/large/memhash-logo.jpg?1740831260"
     },
     "major": {
-      "current_price": 0.075959,
+      "current_price": 0.075829,
       "ath": 1.9,
       "atl": 0.04123402,
       "market_cap": 0,
@@ -114,7 +114,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/52184/large/major_logo.png?1732694091"
     },
     "woof-2": {
-      "current_price": 0.00002496,
+      "current_price": 0.00002443,
       "ath": 0.00081096,
       "atl": 0.00000786,
       "market_cap": 0,
