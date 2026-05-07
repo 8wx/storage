@@ -1,67 +1,67 @@
 {
-  "lastUpdated": "2026-05-07T07:55:43.550Z",
+  "lastUpdated": "2026-05-07T08:03:40.686Z",
   "coins": {
     "notcoin": {
-      "current_price": 0.00066292,
+      "current_price": 0.00066204,
       "ath": 0.02836145,
       "atl": 0.00032676,
-      "market_cap": 65934734,
+      "market_cap": 65826021,
       "total_supply": 102452755868.5205,
       "logo": "https://coin-images.coingecko.com/coins/images/33453/large/rFmThDiD_400x400.jpg?1701876350"
     },
     "dogs-2": {
-      "current_price": 0.00009223,
+      "current_price": 0.00009108,
       "ath": 0.00163299,
       "atl": 0.00002375,
-      "market_cap": 47688398,
+      "market_cap": 47087548,
       "total_supply": 550000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png?1723687163"
     },
     "catizen": {
-      "current_price": 0.070217,
+      "current_price": 0.070553,
       "ath": 1.11,
       "atl": 0.03651096,
-      "market_cap": 29176910,
+      "market_cap": 29484946,
       "total_supply": 1000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/50236/large/cati.png?1726638258"
     },
     "hamster-kombat": {
-      "current_price": 0.0002138,
+      "current_price": 0.00021208,
       "ath": 0.00722201,
       "atl": 0.00012989,
-      "market_cap": 13797168,
+      "market_cap": 13716073,
       "total_supply": 100000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/39102/large/hamster-removebg-preview.png?1720514486"
     },
     "not-pixel": {
-      "current_price": 0.02598788,
+      "current_price": 0.02583726,
       "ath": 0.260763,
       "atl": 0.01530559,
-      "market_cap": 5254491,
+      "market_cap": 5238549,
       "total_supply": 216300000,
       "logo": "https://coin-images.coingecko.com/coins/images/53817/large/Pixel_logo.png?1737460583"
     },
     "memefi-2": {
-      "current_price": 0.00018622,
+      "current_price": 0.00018611,
       "ath": 0.01376413,
       "atl": 0.00011196,
-      "market_cap": 1871169,
+      "market_cap": 1862519,
       "total_supply": 10000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/51175/large/memefi.png?1730289107"
     },
     "tonstation": {
-      "current_price": 0.00000631,
+      "current_price": 0.00000612,
       "ath": 0.00041871,
       "atl": 0.00000167,
-      "market_cap": 415546,
+      "market_cap": 408807,
       "total_supply": 65860282991.05289,
       "logo": "https://coin-images.coingecko.com/coins/images/52805/large/Group_2085666565.png?1734345201"
     },
     "cats-2": {
-      "current_price": 2.58279e-7,
+      "current_price": 2.56996e-7,
       "ath": 0.00018159,
       "atl": 4.2832e-8,
-      "market_cap": 154968,
+      "market_cap": 154197,
       "total_supply": 600000000000,
       "logo": "https://coin-images.coingecko.com/coins/images/50426/large/logo_no_bg.png?1727689380"
     },
@@ -69,12 +69,12 @@
       "current_price": 0.00000272,
       "ath": 0.00035702,
       "atl": 0.00000272,
-      "market_cap": 144404,
+      "market_cap": 144289,
       "total_supply": 53052255755.2701,
       "logo": "https://coin-images.coingecko.com/coins/images/54865/large/paws.jpg?1742193676"
     },
     "tapswaptoken": {
-      "current_price": 0.0008392,
+      "current_price": 0.00083419,
       "ath": 0.01701854,
       "atl": 0.00016919,
       "market_cap": 0,
@@ -90,7 +90,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/38279/large/circle02.png?1747412222"
     },
     "x-empire": {
-      "current_price": 0.00001769,
+      "current_price": 0.00001764,
       "ath": 0.00056127,
       "atl": 0.00001078,
       "market_cap": 0,
@@ -98,7 +98,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/50988/large/x_empire.jpg?1729666623"
     },
     "memhash": {
-      "current_price": 0.00028392,
+      "current_price": 0.00028223,
       "ath": 0.00575433,
       "atl": 0.0001025,
       "market_cap": 0,
@@ -106,7 +106,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/54649/large/memhash-logo.jpg?1740831260"
     },
     "major": {
-      "current_price": 0.079448,
+      "current_price": 0.08011,
       "ath": 1.9,
       "atl": 0.04123402,
       "market_cap": 0,
@@ -114,7 +114,7 @@
       "logo": "https://coin-images.coingecko.com/coins/images/52184/large/major_logo.png?1732694091"
     },
     "woof-2": {
-      "current_price": 0.00002244,
+      "current_price": 0.00002231,
       "ath": 0.00081096,
       "atl": 0.00000786,
       "market_cap": 0,
